@@ -4,7 +4,7 @@ A LangGraph-based AI agent that answers questions about Universal Credit sanctio
 
 ## Demo
 
-[Loom Demo Link - paste your link here]
+Loom Demo Link - https://www.loom.com/share/d8d26a428d8a4313bc176defa3a15d87
 
 ## Features
 
